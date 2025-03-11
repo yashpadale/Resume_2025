@@ -1,131 +1,105 @@
-Department of Technology- Savitribai Phule PuneUniversity, Pune. 
-Yash Satish Padale 
-Phone: +91 8668780118 
-Email: yashpadale108@gmail.com 
-LinkedIn: https://www.linkedin.com/in/yash
-padale76b8b5254/ 
-GitHub: https://github.com/yashpadale 
-Projects: 
-Object Detection on Architectural Floor Plan: 
-• Developed an object detection system for architectural floor plans using YOLOv8 
-model, achieving high accuracy in identifying elements like columns, walls, doors, and 
-windows. 
-• Utilized PyTorch for model training, YAML for dataset organization, and Streamlit for 
-web UI, ensuring efficient development and user-friendly interface. 
-• Demonstrated system's capabilities through a Streamlit web application enabling users 
-to upload floor plan images, adjust detection parameters, and export results to CSV. 
-• Contributed to architectural design optimization, construction planning, and real estate 
-evaluation by automating analysis of floor plans, enhancing efficiency and accuracy in 
-these domains. 
-Used Transformer Model for creating chatbot: 
-• Created a robust solution to use multi head attention model to train on sequence 
-to sequence models for creating a chatbot by referring to research paper- Attention is 
-All you need using Keras. 
-• Designed the model with an encoder-decoder structure to handle the sequence- 
-to-sequence nature of conversational data. 
-• Applied text tokenization techniques to convert conversational data into 
-numerical format. 
-Used Open Cv : 
-• Developed an innovative web-based attendance management system leveraging 
-OpenCV for facial recognition and liveness detection, ensuring robust and secure 
-attendance marking. The system is built using Flask for backend development and 
-integrates various technologies to provide a comprehensive solution. 
-• Connected the application to Google Sheets for storing attendance data, 
-providing a cloud-based solution for easy access and management. 
-• Employed HTML5 Geolocation API to capture the latitude and longitude of the 
-user’s location at the time of attendance marking. 
-• Utilized Haar cascades and deep learning models for accurate face detection. 
-Created speech to text model: 
-• Developed an advanced speech-to-text model using Keras to convert spoken 
-English into written text. The project involved extensive data analysis on audio 
-spectrograms and text transcripts, implementing cutting-edge techniques such as 
-custom learning rate schedulers and attention mechanisms to enhance model 
-performance. 
-• Used Custom Learning Rate scheduler and learnt the casual attention 
-mechanism and greedy attention mechanism . 
-Department of Technology- Savitribai Phule PuneUniversity, Pune. 
-Trained Transformer model To mimic writing Style: 
-• Trained a Transformer model using Keras to mimic the writing style of J.K. 
-Rowling, focusing on capturing the linguistic nuances of the Harry Potter series. 
-• Achieved notable success in generating text that is not only grammatically 
-correct but also stylistically consistent with the author's unique style. 
-• Implemented advanced sequence-to-sequence learning techniques, enabling the model 
-to predict the next 5 to 6 tokens accurately. 
-• Applied text augmentation techniques to enhance the diversity and richness of the 
-training data, improving model performance. 
-Trained Transformer model To Transliterate: 
-• Model Training and Implementation: Trained a Transformer model using Keras to 
-convert Marathi sentences into English transliterations, focusing on phonetic accuracy. 
-• Data Collection and Preprocessing: Manually collected and preprocessed a dataset of 
-Marathi sentences with corresponding English transliterations, applying normalization 
-and tokenization techniques. 
-• Evaluation and Performance: Evaluated the model's performance, achieving high 
-accuracy in phonetic consistency and transliteration accuracy. 
-• Practical Application: Developed an application to convert Marathi sentences into 
-English transliterations, providing documentation and use cases to demonstrate 
-effectiveness. 
-Experience: 
-1. Data Science Intern at Algoanalytics , where I quantized then finetuned small 
-language models and compared their performance for the task of news 
-summarization. Worked with api integration to get news from magazines, 
-newspaper . 
-2. Machine Learning Intern  at Excelize . Worked on computer vision for task 
-of image annotation using yolov8 . Worked on creating annotated data using 
-Roboflow. 
-Education: 
-3. Bachelor in Data Science , Department of Technology , Savitrabai Phule Pune 
-University [2022-25] 
-4. 12 th Std – Aditya Horizon English Medium School (Mahrahstra Board) – 84.83 % - 
-Subjects -Physics, Chemistry , Maths,Geography ,English , IT [2021-22] 
-5. 10 th Std – The Orchid School – 84.80 % CBSE [2019-20] 
-Department of Technology- Savitribai Phule PuneUniversity, Pune. 
-Achievement: 
-1] 
-Won Hackathon Conducted at Savitrabai Phule Pune University of 2023 
-•  Created a naïve bayes model to classify text based on their class and called diff functions which 
-would do the operations on data whether csv , excel , json etc with help of pandas library and 
-matplotlib and seaborn to create visuals and connected the frontend to backend , designed the 
-UI , managed the storage and retrieval of files uploaded by user. 
-2] 
-3] 
-4] 
-Won Hackathon Conducted at Savitrabai Phule Pune University of 2024 
-• Created a Transformer model from numpy , keras , tensorflow and trained it on customer 
-support conversation so that the model can automate customer conversation text based. Which 
-can later be scaled for powering the conversation of customer call centre service automation 
-through AI . 
-Meri Maati Mera Desh (MMMD), November 2023: 
-• Guinness World Record in name of University of Pune for submission of largest count of selfie 
-images as a single album. Net count of over a million selfie images; 1,042,538 selfie portraits 
-of a total of 2,571,172 self-portraits processed and validated during the “Meri Maati Mera Desh” 
-Campaign in a time span of 20 days with a team of 190 volunteers. 
-• Core member of a web based development team working on creation and maintenance of 
-Python Stream lit library for segregating Good, Bad and confused selfies. 
-• In-charge of overall management of workflow and delegation of tasks and Instrumental in data 
-pre-processing, handling, distribution and verification 
-• Felicitated by PMO, Chief Minister of State and other dignitaries. 
-“Shantata Punekar Vachat Ahe”, December 2023: 
-• Total of 11,546 videos were submitted after processing to the Guinness World Records 
-Council similar to the MMMD Project. 
-• 11546 videos of 13696 collected validated after auditing, efficiency of 84.3% achieved. 
-• In-charge of overall management of workflow and delegation of tasks. 
-• Processing done to check duplication, runtime greater than 30 seconds, 
-• A cumulative count of the same submitted as a single album with the video recorded during 
-14th December in a 1-hour window. 
-Languages: English, Hindi, Marathi 
-Interests: 
-● Transformer models. 
-● Neural Network Architecture 
-● Computer Vision 
-● ASR (Automatic Speech Recognition) 
-● GAN 
-● Diffusion models 
-Personal Details: 
-Name: Yash Satish Padale 
-DOB: 14.06.2004 
-Declaration: 
-It is to certify that all the information provided above is true in all aspects and is a thorough 
-reflection of my professional capabilities and skills. 
-Place: Pune, Maharashtra 
-Date: 07/06/2024 
-Department of Technology- Savitribai Phule PuneUniversity, Pune. 
+# Yash Satish Padale
+
+## 👨‍🎓 About Me
+
+🎓 **Bachelor in Data Science**  
+📍 Department of Technology, Savitribai Phule Pune University (2022-25)
+
+Aspiring Data Scientist & Machine Learning Engineer passionate about Deep Learning, Transformer Models, and AI-driven solutions. Experienced in Computer Vision, NLP, and Speech Recognition.
+
+---
+
+## 🛠 Skills & Interests
+
+- **Machine Learning**: Transformers, Neural Networks, GANs, Diffusion Models
+- **Computer Vision**: YOLOv8, OpenCV, Image Processing
+- **NLP & ASR**: Text Classification, Chatbots, Speech-to-Text
+- **Web Development**: Flask, Streamlit
+- **Data Handling**: Pandas, NumPy, YAML, Google Sheets
+
+---
+
+## 🚀 Projects
+
+### 🏗 **Object Detection on Architectural Floor Plans**
+- Developed an object detection system using **YOLOv8** to identify elements like columns, walls, doors, and windows.
+- Utilized **PyTorch, YAML** for dataset organization, and **Streamlit** for a user-friendly UI.
+- Automated architectural design analysis for improved construction planning and real estate evaluation.
+
+### 🤖 **Transformer-based Chatbot**
+- Implemented a chatbot using a **multi-head attention model** inspired by the research paper **"Attention Is All You Need."**
+- Built an encoder-decoder model in **Keras** to handle sequence-to-sequence conversations.
+- Applied text tokenization and model fine-tuning for improved conversational responses.
+
+### 🎭 **Facial Recognition Attendance System**
+- Developed an **AI-powered attendance system** using **OpenCV** and **Flask**.
+- Integrated **Haar cascades** and **deep learning models** for face detection.
+- Connected the application to **Google Sheets** and used **HTML5 Geolocation API** to track location.
+
+### 🔊 **Speech-to-Text Model**
+- Built an **ASR (Automatic Speech Recognition) system** using **Keras**.
+- Processed audio spectrograms and transcripts using custom learning rate schedulers and attention mechanisms.
+
+### ✍ **Writing Style Mimic using Transformers**
+- Trained a Transformer model to replicate **J.K. Rowling's writing style**.
+- Used sequence-to-sequence learning for text generation and fine-tuned accuracy.
+
+### 🔠 **Marathi to English Transliteration Model**
+- Trained a Transformer model to **convert Marathi sentences into English transliterations**.
+- Applied phonetic normalization, tokenization, and sequence modeling for accuracy.
+
+---
+
+## 🏢 Work Experience
+
+### **Data Science Intern - Algoanalytics**
+- Quantized and fine-tuned small language models for **news summarization**.
+- Integrated APIs to fetch news from various sources and analyzed model performance.
+
+### **Machine Learning Intern - Excelize**
+- Worked on **Computer Vision** tasks using **YOLOv8** for image annotation.
+- Created datasets using **Roboflow** and optimized model performance.
+
+---
+
+## 🏆 Achievements
+
+### **🥇 Hackathon Wins**
+- **Winner - Savitribai Phule Pune University Hackathon 2023**: Developed a **Naïve Bayes-based text classification system** with automated data operations.
+- **Winner - Savitribai Phule Pune University Hackathon 2024**: Built a **Transformer-based AI chatbot** to automate customer service.
+
+### **🌍 Guinness World Records Contributions**
+- **Meri Maati Mera Desh (MMMD) - Nov 2023**: Contributed to a record-breaking submission of **1,042,538 selfie images**.
+- **Shantata Punekar Vachat Ahe - Dec 2023**: Processed **11,546 videos** for Guinness World Records.
+
+---
+
+## 📚 Education
+
+- **B.Sc. in Data Science** - Savitribai Phule Pune University (2022-2025)
+- **12th Std** - Aditya Horizon English Medium School (Maharashtra Board) - 84.83%
+- **10th Std** - The Orchid School (CBSE) - 84.80%
+
+---
+
+## 📌 Contact & Links
+
+📧 **Email**: yashpadale108@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/yashpadale76b8b5254](https://www.linkedin.com/in/yashpadale76b8b5254/)  
+🐱 **GitHub**: [github.com/yashpadale](https://github.com/yashpadale)  
+📞 **Phone**: +91 8668780118  
+
+---
+
+## 💡 Languages
+- **English** (Fluent)
+- **Hindi** (Fluent)
+- **Marathi** (Fluent)
+
+---
+
+_"It is to certify that all the information provided above is true in all aspects and is a thorough reflection of my professional capabilities and skills."_
+
+📍 **Location**: Pune, Maharashtra  
+🗓 **Last Updated**: March 2025
+
